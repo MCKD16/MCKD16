@@ -1,7 +1,7 @@
 [_] English
    - Hello. I'm MCKD
    - I develop a Minecraft Plugins And each others.
-   - I like a develop a plugins.
+   - I like a plugins develop.
    - Thanks for reading a my informations. :)
 
 
